@@ -1,5 +1,5 @@
 {
-    "name": "discoverlance/filament-page-hints",
+    "name": "mstfkhzaal/filament-page-hints",
     "description": "Create hints for your Filament pages that can serve as a guideline for users.",
     "keywords": [
         "discoverlance-com",
@@ -8,20 +8,20 @@
         "filament admin",
         "filament-page-hints"
     ],
-    "homepage": "https://github.com/discoverlance-com/filament-page-hints",
+    "homepage": "https://github.com/mstfkhzaal/filament-page-hints",
     "license": "MIT",
     "authors": [
         {
-            "name": "Lance Armah-Abraham",
-            "email": "lanarmah@gmail.com",
+            "name": "Moustafa khazaal",
+            "email": "mstfkhazaal@gmail.com",
             "role": "Developer"
         }
     ],
     "require": {
         "php": "^8.1",
         "filament/filament": "^2.0",
-        "illuminate/contracts": "^9.0",
-        "spatie/laravel-package-tools": "^1.13.0"
+        "illuminate/contracts": "^8.0|^9.0|^10.0",
+        "spatie/laravel-package-tools": "^1.14",
     },
     "require-dev": {
         "laravel-lang/attributes": "^2.0",
